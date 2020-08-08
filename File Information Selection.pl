@@ -221,10 +221,8 @@ if(@ARGV == 2 || @ARGV == 3)
 			print "-----------------------------------------------\n";
 			print "					  	      \n";
 			print "     Unix Systems Programming, Spring 2019     \n";
-			print "                  Assignment		      \n";
 			print "						      \n";
-			print "         Submitteded By:  Jiaran Ma	      \n";
-			print "                          12999278	      \n";
+			print "         Submitteded By:  Mark		      \n";
 			print "        Completion Date:   		      \n";
 			print "                          12-10-2019	      \n";
 			print "						      \n";
